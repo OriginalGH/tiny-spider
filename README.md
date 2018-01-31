@@ -1,2 +1,2 @@
 # tiny-spider
-this's fan.ok?
+this's fan.
