@@ -2,7 +2,7 @@ import threading
 import time
 def print_func(delay):
     time.sleep(delay)
-    li.append("0")
+    li.append("call")
     print("hi")
 
 
